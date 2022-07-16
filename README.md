@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Alexander Schroeder!
+Welcome to my profile.
+
 <!--
 **datalexum/datalexum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
