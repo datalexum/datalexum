@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datalexum" alt="datalexum" /></a> </p>
 
-- 🔭 I’m currently working on [Great Reef Management System and LCEMSC CAN-Protocol](https://github.com/datalexum/LCEMSC)
-
-- 🌱 I’m currently learning **InfluxDB**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexander-schröder-26a1b018a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-schröder-26a1b018a" height="30" width="40" /></a>
